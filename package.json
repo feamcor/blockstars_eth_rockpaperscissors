@@ -1,0 +1,30 @@
+{
+  "name": "blockstars_eth_rockpaperscissors",
+  "version": "0.0.1",
+  "description": "Blockstars Ethereum Module 9 Rock, Paper & Scissors",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feamcor/blockstars_eth_rockpaperscissors.git"
+  },
+  "author": "Fábio Corrêa <feamcor@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feamcor/blockstars_eth_rockpaperscissors/issues"
+  },
+  "homepage": "https://github.com/feamcor/blockstars_eth_rockpaperscissors#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "ganache-cli": "^6.4.3",
+    "openzeppelin-solidity": "^2.2.0",
+    "truffle": "^5.0.18",
+    "truffle-assertions": "^0.8.2",
+    "truffle-hdwallet-provider": "^1.0.9"
+  }
+}
