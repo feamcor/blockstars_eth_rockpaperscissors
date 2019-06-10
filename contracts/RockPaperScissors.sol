@@ -3,7 +3,7 @@ pragma solidity 0.5.8;
 import "openzeppelin-solidity/contracts/math/SafeMath.sol";
 import "openzeppelin-solidity/contracts/lifecycle/Pausable.sol";
 
-/// @title Let two accounts play a 3-round Rock, Paper & Scissors game against each other
+/// @title Let two accounts play a 1/3/5-round Rock, Paper & Scissors game against each other
 /// @notice B9lab Blockstars Certified Ethereum Developer Course
 /// @notice Module 9 project: Rock, Paper & Scissors
 /// @author Fábio Corrêa <feamcor@gmail.com>
